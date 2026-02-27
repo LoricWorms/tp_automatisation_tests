@@ -1,5 +1,6 @@
-config/DriverFactory.class
-steps/LoginSteps.class
-config/Config.class
-pages/LoginPage.class
-runner/CucumberTest.class
+config\DriverFactory.class
+steps\LoginSteps.class
+pages\LoginPage.class
+config\Config.class
+pages\BookPage.class
+runner\CucumberTest.class
