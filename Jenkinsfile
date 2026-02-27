@@ -8,7 +8,7 @@ pipeline {
 
     stages {
 
-        stage('Backend - Tests') {
+        stage('Backend - Tests ') {
             steps {
                 dir('Backend') {
                     sh 'mvn clean test'
